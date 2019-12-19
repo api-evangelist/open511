@@ -1,0 +1,36 @@
+{
+    "name": "Open511",
+    "description": "<p>The open data movement has demonstrated its value to society on many occasions, particularly with recent efforts to improve information about transit systems. With Open511, public bodies and citizens can get the most out of your jurisdiction&rsquo;s data by turning your road events into powerful and innovative software and analysis.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/open511.png",
+    "tags": [
+        "511",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/open511\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Open511",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/open511.png",
+            "humanURL": "http:\/\/open511.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/open511-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/open511.org\/"
+        }
+    ]
+}
